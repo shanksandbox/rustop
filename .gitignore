@@ -1,0 +1,35 @@
+
+# Rust/Cargo build artifacts
+/target/
+
+# Compiled library files
+*.rlib
+
+# Executables and shared libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# Swap and temp files
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Logs and environment files
+*.log
+.env
+
+# Coverage and profiling
+.coverage
+*.prof
+
+# WASM
+*.wasm
+

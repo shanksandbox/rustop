@@ -1,2 +1,2 @@
 # rustop
-a rust implementation of 'top'
+a rust implementation of 'top' (or just reading from proc :))
